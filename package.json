@@ -1,6 +1,6 @@
 {
   "name": "react-scripts",
-  "version": "5.0.2",
+  "version": "5.0.1",
   "description": "Configuration and scripts for Create React App.",
   "repository": {
     "type": "git",
@@ -31,7 +31,6 @@
     "@babel/core": "^7.16.0",
     "@pmmmwh/react-refresh-webpack-plugin": "^0.5.3",
     "@svgr/webpack": "^5.5.0",
-    "babel-jest": "^27.4.2",
     "babel-loader": "^8.2.3",
     "babel-plugin-named-asset-import": "^0.3.8",
     "babel-preset-react-app": "^10.0.1",
